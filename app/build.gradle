@@ -6,7 +6,7 @@ plugins {
 android {
     compileSdk 35
     defaultConfig {
-        applicationId "ml.docilealligator.infinityforreddit"
+        applicationId "ml.docilealligator.infinityforreddit_custom"
         minSdk 21
         targetSdk 35
         versionCode 199
